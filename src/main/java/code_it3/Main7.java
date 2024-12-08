@@ -8,5 +8,6 @@ public class Main7 {
         System.out.println(5 != 5);
         System.out.println(true != false);
         System.out.println(true == false);
+        System.out.println("gang");
     }
 }
